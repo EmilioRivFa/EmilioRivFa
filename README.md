@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 
  ## Diseños Disponibles
+ ##JavaScript
 - [Diseño de Lenguaje X](designs/lenguaje-x.pdf)
 - [Diseño de Lenguaje Y](designs/lenguaje-y.png)
 
