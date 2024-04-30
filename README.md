@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, soy Emilio Rivera Facio</h1>
-<h3 align="center">Un apasionado desarrollador frontend de México</h3>
+<h1 align="center">Hello 👋, I'm Emilio Rivera Facio.</h1>
+<h3 align="center">A student in Systems Engineering</h3>
 
-<h3 align="left">Conéctate conmigo :</h3>
+<h3 align="left">Focused on improving</h3>
 <p align="left">
 </p>
 
