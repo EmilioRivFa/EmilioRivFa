@@ -38,3 +38,10 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EmilioRivFa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
