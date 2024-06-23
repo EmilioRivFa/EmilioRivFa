@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 🚀 I'm looking for elevated learning.
 - 👨🏻‍💻 I'm looking to collaborate on outstanding projects.
 
+  the end????
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/emilio.riverafacio?mibextid=LQQJ4d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milio_rf)
 
