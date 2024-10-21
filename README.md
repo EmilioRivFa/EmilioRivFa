@@ -5,7 +5,6 @@
 <p align="left">
 </p>
 
-Welcome 
 Here are some ideas to get you started:
 
 - 🪄I am currently studying Computer Systems Engineering.
