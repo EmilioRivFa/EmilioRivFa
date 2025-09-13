@@ -19,12 +19,7 @@ Here are some ideas to get you started:
 
 
 <!--logos-->
-# 💻 Tech Stack: Already experienced
-###
-
-<h2 align="left">I code with</h2>
-
-###
+# 💻 I code with: 
 
 <h2>Technical Skills</h2>
 
