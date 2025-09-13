@@ -95,7 +95,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" alt="NextJS logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" />
   <img src="https://api.iconify.design/logos-perl.svg" height="40" alt="Perl logo" />
-  <img src="https://www.php.net" height="40" alt="PHP logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" alt="Sass logo" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="Django logo" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" height="36" alt="Laravel logo" />
@@ -106,11 +105,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored-dark.svg" height="36" alt="Astro logo" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" height="36" alt="GraphQL logo" />
 </a>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/EmilioRivFa/count.svg?"  />
-</div>
-
 
 
 <div align="center">
